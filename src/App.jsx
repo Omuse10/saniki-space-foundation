@@ -226,7 +226,7 @@ Together, these pillars cultivate talent, restore hope, and create opportunities
                   </div>
                   <div>
                     <h3 className="font-semibold text-gray-900">Our Mission</h3>
-                    <p className="text-gray-600">To empower communities through sustainable programs that expand access to education, mental wellness, art, and technology, building foundations for long-term growth and dignity.
+                    <p className="text-gray-600">To empower youth, artists, and innovators by providing safe spaces, tools, mentorship, and opportunities to explore their craft and build sustainable futures.
                     </p>
                   </div>
                 </div>
@@ -237,7 +237,7 @@ Together, these pillars cultivate talent, restore hope, and create opportunities
                   <div>
                     <h3 className="font-semibold text-gray-900">Our Vision</h3>
                     <p className="text-gray-600">Our Vision
-                    To build a self-reliant, thriving society where every individual has the chance to learn, create, stay healthy, and prosper.</p>
+                    To elevate African art, talent, and innovation to the global stage and transform communities through creativity, collaboration, and healing.</p>
                   </div>
                 </div>
               </div>
